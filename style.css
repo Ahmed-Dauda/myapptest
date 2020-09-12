@@ -60,6 +60,7 @@ a.nav-link{
     
 }
 
+
 .pb-3{
     font-style: normal;
     font-family: 'Times New Roman', Times, serif;
@@ -157,6 +158,9 @@ img .hideimg{
         
         
      }
+     div .card-image2{
+        max-width: 10%;
+    }
      
      .page-footer{
          font-size: 1.1em;
@@ -166,18 +170,15 @@ img .hideimg{
          height: 100%;
 
      }
-     .card-image1{
-         height: 400px;
-         width: 100%;
-     }
+    
+    
 
      .figure-img{
          width: 100%;
          height: 550px;
      }
-     .btn1{
-        margin: 00px;
-        margin-left: 150px;
+     
+        
     }
      
      .messege-me-btn{
@@ -190,7 +191,7 @@ img .hideimg{
         box-shadow: 5px 10px 11px 5px rgba(0, 0, 0, 4);
         border: 1px solid black;
         width: 100%;
-        height: 600px;
+        height: 700px;
         background-color: white;
         font-size: 1.1em;   
     }
@@ -237,6 +238,15 @@ img .hideimg{
          font-size: 1.1em;
          font-family: Arial, Helvetica;
      }
+     .btn1{
+        margin: 00px;
+        margin-left: 150px;
+        }
+    #more{display: none;
+        text-align: center; 
+        padding-left: 20px;
+        padding-right: 10px;
+    }
 
      .flex-1{
     
@@ -288,7 +298,7 @@ img .hideimg{
         box-shadow: 5px 10px 11px 5px rgba(0, 0, 0, 4);
         border: 1px solid black;
         width: 100%;
-        height: 700px;
+        height: 600px;
         background-color: white;
         font-size: 1.1em;   
     }
@@ -300,7 +310,7 @@ img .hideimg{
     width: 80%;
     height: 350px;
     margin: 50px auto;
-    background-color: burlywood;
+    background-color: rgb(29 41, 81);
     font-family: 'Times New Roman';
     font-size: 18px;
    
@@ -341,6 +351,10 @@ nav, .bg{
         background-color: white;
         font-size: 1.1em;   
     }
+    .figure-img{
+        width: 100%;
+        height: 720px;
+    }
  
      .form{
     color:black;
@@ -349,7 +363,7 @@ nav, .bg{
     width: 80%;
     height: 360px;
     margin: 50px auto;
-    background-color: burlywood;
+    background-color: rgb(29, 41, 81);
     font-family: 'Times New Roman';
     font-size: 18px;
    }
@@ -385,7 +399,7 @@ img .hideimg{
     }
     .figure-img{
         width: 100%;
-        height: 620px;
+        height: 720px;
     }
     
  
